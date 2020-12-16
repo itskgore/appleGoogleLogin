@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">603388640479-3rsdqv6etlbplofv5ldr5ti5dmqck3b1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">603388640479</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsY06fzNyebd74Ax0A-KR6JImWOisJGvo</string>
+    <string name="google_app_id" translatable="false">1:603388640479:android:14cc3f3daffd4764e87d6a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsY06fzNyebd74Ax0A-KR6JImWOisJGvo</string>
+    <string name="google_storage_bucket" translatable="false">goalarchiver.appspot.com</string>
+    <string name="project_id" translatable="false">goalarchiver</string>
+</resources>
